@@ -1,0 +1,335 @@
+[
+  {
+    "slug": "ai-tools",
+    "label": "AI Tools",
+    "description": "AI assistants, generators, copilots, and machine learning platforms.",
+    "icon": "Sparkles",
+    "color": "#e50914",
+    "gradient": "from-red-500 to-pink-500",
+    "websiteCount": 15
+  },
+  {
+    "slug": "education-and-learning",
+    "label": "Education & Learning",
+    "description": "Curated websites for education & learning.",
+    "icon": "GraduationCap",
+    "color": "#ff2d78",
+    "gradient": "from-pink-500 to-rose-500",
+    "websiteCount": 15
+  },
+  {
+    "slug": "scholarships-and-study-abroad",
+    "label": "Scholarships & Study Abroad",
+    "description": "Verified scholarships, study-abroad guides, admissions portals, student visas, and research funding.",
+    "icon": "BookMarked",
+    "color": "#ef4444",
+    "gradient": "from-red-500 to-rose-500",
+    "websiteCount": 31
+  },
+  {
+    "slug": "developer-tools",
+    "label": "Developer Tools",
+    "description": "Tools for coding, deploying, debugging, APIs, and developer workflows.",
+    "icon": "Code2",
+    "color": "#7c3aed",
+    "gradient": "from-violet-500 to-indigo-500",
+    "websiteCount": 15
+  },
+  {
+    "slug": "design-and-creative",
+    "label": "Design & Creative",
+    "description": "Curated websites for design & creative.",
+    "icon": "Palette",
+    "color": "#06b6d4",
+    "gradient": "from-cyan-500 to-sky-500",
+    "websiteCount": 15
+  },
+  {
+    "slug": "productivity-and-tools",
+    "label": "Productivity & Tools",
+    "description": "Curated websites for productivity & tools.",
+    "icon": "CheckSquare",
+    "color": "#10b981",
+    "gradient": "from-emerald-500 to-teal-500",
+    "websiteCount": 15
+  },
+  {
+    "slug": "freelancing-and-remote-work",
+    "label": "Freelancing & Remote Work",
+    "description": "Curated websites for freelancing & remote work.",
+    "icon": "BriefcaseBusiness",
+    "color": "#f59e0b",
+    "gradient": "from-amber-500 to-orange-500",
+    "websiteCount": 15
+  },
+  {
+    "slug": "jobs-and-careers",
+    "label": "Jobs & Careers",
+    "description": "Curated websites for jobs & careers.",
+    "icon": "BadgeCheck",
+    "color": "#3b82f6",
+    "gradient": "from-blue-500 to-cyan-500",
+    "websiteCount": 15
+  },
+  {
+    "slug": "e-commerce-and-shopping",
+    "label": "E-commerce & Shopping",
+    "description": "Curated websites for e-commerce & shopping.",
+    "icon": "ShoppingBag",
+    "color": "#e50914",
+    "gradient": "from-red-500 to-pink-500",
+    "websiteCount": 15
+  },
+  {
+    "slug": "social-media-and-communities",
+    "label": "Social Media & Communities",
+    "description": "Curated websites for social media & communities.",
+    "icon": "UsersRound",
+    "color": "#ff2d78",
+    "gradient": "from-pink-500 to-rose-500",
+    "websiteCount": 15
+  },
+  {
+    "slug": "entertainment-and-streaming",
+    "label": "Entertainment & Streaming",
+    "description": "Streaming services, anime, sports, music, live TV, databases, reviews, news, trailers, and podcasts.",
+    "icon": "PlayCircle",
+    "color": "#7c3aed",
+    "gradient": "from-violet-500 to-indigo-500",
+    "websiteCount": 52
+  },
+  {
+    "slug": "news-and-media",
+    "label": "News & Media",
+    "description": "Curated websites for news & media.",
+    "icon": "Newspaper",
+    "color": "#06b6d4",
+    "gradient": "from-cyan-500 to-sky-500",
+    "websiteCount": 15
+  },
+  {
+    "slug": "finance-and-banking",
+    "label": "Finance & Banking",
+    "description": "Curated websites for finance & banking.",
+    "icon": "WalletCards",
+    "color": "#10b981",
+    "gradient": "from-emerald-500 to-teal-500",
+    "websiteCount": 15
+  },
+  {
+    "slug": "health-and-medical",
+    "label": "Health & Medical",
+    "description": "Curated websites for health & medical.",
+    "icon": "HeartPulse",
+    "color": "#f59e0b",
+    "gradient": "from-amber-500 to-orange-500",
+    "websiteCount": 15
+  },
+  {
+    "slug": "travel-and-tourism",
+    "label": "Travel & Tourism",
+    "description": "Curated websites for travel & tourism.",
+    "icon": "Plane",
+    "color": "#3b82f6",
+    "gradient": "from-blue-500 to-cyan-500",
+    "websiteCount": 15
+  },
+  {
+    "slug": "sports-and-cricket",
+    "label": "Sports & Cricket",
+    "description": "Curated websites for sports & cricket.",
+    "icon": "Trophy",
+    "color": "#e50914",
+    "gradient": "from-red-500 to-pink-500",
+    "websiteCount": 15
+  },
+  {
+    "slug": "government-and-official",
+    "label": "Government & Official (Pakistan)",
+    "description": "Curated websites for government & official (pakistan).",
+    "icon": "Landmark",
+    "color": "#ff2d78",
+    "gradient": "from-pink-500 to-rose-500",
+    "websiteCount": 15
+  },
+  {
+    "slug": "islamic-and-religious",
+    "label": "Islamic & Religious",
+    "description": "Curated websites for islamic & religious.",
+    "icon": "BookOpen",
+    "color": "#7c3aed",
+    "gradient": "from-violet-500 to-indigo-500",
+    "websiteCount": 15
+  },
+  {
+    "slug": "food-and-delivery",
+    "label": "Food & Delivery",
+    "description": "Curated websites for food & delivery.",
+    "icon": "Utensils",
+    "color": "#06b6d4",
+    "gradient": "from-cyan-500 to-sky-500",
+    "websiteCount": 15
+  },
+  {
+    "slug": "real-estate",
+    "label": "Real Estate",
+    "description": "Property listings, real estate research, and housing marketplaces.",
+    "icon": "Building2",
+    "color": "#10b981",
+    "gradient": "from-emerald-500 to-teal-500",
+    "websiteCount": 15
+  },
+  {
+    "slug": "telecom-and-internet",
+    "label": "Telecom & Internet (Pakistan)",
+    "description": "Curated websites for telecom & internet (pakistan).",
+    "icon": "Wifi",
+    "color": "#f59e0b",
+    "gradient": "from-amber-500 to-orange-500",
+    "websiteCount": 15
+  },
+  {
+    "slug": "automobiles-and-cars",
+    "label": "Automobiles & Cars",
+    "description": "Curated websites for automobiles & cars.",
+    "icon": "Car",
+    "color": "#3b82f6",
+    "gradient": "from-blue-500 to-cyan-500",
+    "websiteCount": 15
+  },
+  {
+    "slug": "fashion-and-clothing",
+    "label": "Fashion & Clothing",
+    "description": "Curated websites for fashion & clothing.",
+    "icon": "Shirt",
+    "color": "#e50914",
+    "gradient": "from-red-500 to-pink-500",
+    "websiteCount": 15
+  },
+  {
+    "slug": "utilities-and-bill-payment",
+    "label": "Utilities & Bill Payment",
+    "description": "Electricity, gas, water, telecom, internet, bill payments, digital wallets, and support portals.",
+    "icon": "ReceiptText",
+    "color": "#ff2d78",
+    "gradient": "from-pink-500 to-rose-500",
+    "websiteCount": 39
+  },
+  {
+    "slug": "tech-news-and-blogs",
+    "label": "Tech News & Blogs",
+    "description": "Curated websites for tech news & blogs.",
+    "icon": "Radio",
+    "color": "#7c3aed",
+    "gradient": "from-violet-500 to-indigo-500",
+    "websiteCount": 15
+  },
+  {
+    "slug": "research-and-science",
+    "label": "Research & Science",
+    "description": "Curated websites for research & science.",
+    "icon": "Microscope",
+    "color": "#06b6d4",
+    "gradient": "from-cyan-500 to-sky-500",
+    "websiteCount": 15
+  },
+  {
+    "slug": "cybersecurity-and-privacy",
+    "label": "Cybersecurity & Privacy",
+    "description": "Curated websites for cybersecurity & privacy.",
+    "icon": "ShieldCheck",
+    "color": "#10b981",
+    "gradient": "from-emerald-500 to-teal-500",
+    "websiteCount": 15
+  },
+  {
+    "slug": "ngo-and-social-work",
+    "label": "NGO & Social Work",
+    "description": "Curated websites for ngo & social work.",
+    "icon": "HandHeart",
+    "color": "#f59e0b",
+    "gradient": "from-amber-500 to-orange-500",
+    "websiteCount": 15
+  },
+  {
+    "slug": "agriculture-and-farming",
+    "label": "Agriculture & Farming",
+    "description": "Curated websites for agriculture & farming.",
+    "icon": "Wheat",
+    "color": "#3b82f6",
+    "gradient": "from-blue-500 to-cyan-500",
+    "websiteCount": 15
+  },
+  {
+    "slug": "legal-and-law",
+    "label": "Legal & Law",
+    "description": "Curated websites for legal & law.",
+    "icon": "Scale",
+    "color": "#e50914",
+    "gradient": "from-red-500 to-pink-500",
+    "websiteCount": 15
+  },
+  {
+    "slug": "matrimonial",
+    "label": "Matrimonial",
+    "description": "Matrimonial, marriage, and relationship platforms.",
+    "icon": "HeartHandshake",
+    "color": "#ff2d78",
+    "gradient": "from-pink-500 to-rose-500",
+    "websiteCount": 15
+  },
+  {
+    "slug": "weather-and-environment",
+    "label": "Weather & Environment",
+    "description": "Curated websites for weather & environment.",
+    "icon": "CloudSun",
+    "color": "#7c3aed",
+    "gradient": "from-violet-500 to-indigo-500",
+    "websiteCount": 15
+  },
+  {
+    "slug": "kids-and-education",
+    "label": "Kids & Education (Children)",
+    "description": "Curated websites for kids & education (children).",
+    "icon": "Baby",
+    "color": "#06b6d4",
+    "gradient": "from-cyan-500 to-sky-500",
+    "websiteCount": 15
+  },
+  {
+    "slug": "business-and-entrepreneurship",
+    "label": "Business & Entrepreneurship",
+    "description": "Curated websites for business & entrepreneurship.",
+    "icon": "Rocket",
+    "color": "#10b981",
+    "gradient": "from-emerald-500 to-teal-500",
+    "websiteCount": 15
+  },
+  {
+    "slug": "photography-and-video",
+    "label": "Photography & Video",
+    "description": "Curated websites for photography & video.",
+    "icon": "Camera",
+    "color": "#f59e0b",
+    "gradient": "from-amber-500 to-orange-500",
+    "websiteCount": 15
+  },
+  {
+    "slug": "miscellaneous-and-useful",
+    "label": "Miscellaneous & Useful",
+    "description": "Curated websites for miscellaneous & useful.",
+    "icon": "Box",
+    "color": "#3b82f6",
+    "gradient": "from-blue-500 to-cyan-500",
+    "websiteCount": 15
+  },
+  {
+    "slug": "library",
+    "label": "Library",
+    "description": "A global collection of book platforms, digital libraries, academic resources, audiobooks, research portals, educational repositories, and reading services.",
+    "icon": "LibraryBig",
+    "color": "#8b5cf6",
+    "gradient": "from-violet-500 to-fuchsia-500",
+    "websiteCount": 55
+  }
+]

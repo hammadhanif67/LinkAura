@@ -1,0 +1,81 @@
+import type { UtilityProvider, UtilitySubcategory } from '../types/utility.types';
+
+const logo = (domain: string) => `https://www.google.com/s2/favicons?domain=${domain}&sz=64`;
+
+export const utilitySubcategories: UtilitySubcategory[] = [
+  'Electricity',
+  'Gas Utilities',
+  'Water Utilities',
+  'Telecom Providers',
+  'Internet Service Providers (ISP)',
+  'Mobile Recharge',
+  'Bill Payment Platforms',
+  'Government Utility Services',
+  'Cable & TV Services',
+  'Digital Utility Payments',
+  'Customer Support Portals',
+];
+
+export const utilities: UtilityProvider[] = [
+  ['FESCO', 'fesco', 'https://www.fesco.com.pk', 'Electricity', 'Punjab', 'Faisalabad', 'Electricity bills, customer services, complaints, and distribution company updates.'],
+  ['LESCO', 'lesco', 'https://www.lesco.gov.pk', 'Electricity', 'Punjab', 'Lahore', 'Electricity billing, load management, new connections, and customer support services.'],
+  ['IESCO', 'iesco', 'https://www.iesco.com.pk', 'Electricity', 'Islamabad Capital Territory', 'Islamabad', 'Electricity distribution services, billing, complaints, and customer information.'],
+  ['GEPCO', 'gepco', 'https://gepco.com.pk', 'Electricity', 'Punjab', 'Gujranwala', 'Electricity bills, connection support, outages, and customer care resources.'],
+  ['MEPCO', 'mepco', 'https://www.mepco.com.pk', 'Electricity', 'Punjab', 'Multan', 'Electricity distribution, billing, complaints, and regional customer services.'],
+  ['PESCO', 'pesco', 'https://www.pesco.com.pk', 'Electricity', 'Khyber Pakhtunkhwa', 'Peshawar', 'Electricity distribution and customer support for Peshawar region consumers.'],
+  ['HESCO', 'hesco', 'https://hesco.gov.pk', 'Electricity', 'Sindh', 'Hyderabad', 'Electricity distribution services, billing, and consumer complaint resources.'],
+  ['QESCO', 'qesco', 'https://www.qesco.com.pk', 'Electricity', 'Balochistan', 'Quetta', 'Electricity services, consumer information, and regional utility support.'],
+  ['TESCO', 'tesco', 'https://tesco.gov.pk', 'Electricity', 'Khyber Pakhtunkhwa', 'Tribal Areas', 'Electricity distribution and customer services for tribal districts.'],
+  ['K-Electric', 'k-electric', 'https://www.ke.com.pk', 'Electricity', 'Sindh', 'Karachi', 'Electricity bills, outages, new connections, and customer support for Karachi.'],
+  ['SNGPL', 'sngpl', 'https://www.sngpl.com.pk', 'Gas Utilities', 'Punjab', 'Lahore', 'Natural gas billing, applications, customer services, and complaint support.'],
+  ['SSGC', 'ssgc', 'https://www.ssgc.com.pk', 'Gas Utilities', 'Sindh', 'Karachi', 'Natural gas services, billing, complaints, and customer support.'],
+  ['WASA Lahore', 'wasa-lahore', 'https://www.wasa.punjab.gov.pk', 'Water Utilities', 'Punjab', 'Lahore', 'Water supply, sewerage, billing, and municipal water services.'],
+  ['WASA Faisalabad', 'wasa-faisalabad', 'https://www.wasa.punjab.gov.pk', 'Water Utilities', 'Punjab', 'Faisalabad', 'Water supply, sewerage, complaints, and customer service resources.'],
+  ['WASA Rawalpindi', 'wasa-rawalpindi', 'https://www.wasa.punjab.gov.pk', 'Water Utilities', 'Punjab', 'Rawalpindi', 'Water utility services, billing, and sewerage support.'],
+  ['KWSB Karachi', 'kwsb-karachi', 'https://www.kwsb.gos.pk', 'Water Utilities', 'Sindh', 'Karachi', 'Karachi water supply, sewerage services, and customer resources.'],
+  ['Jazz', 'jazz', 'https://jazz.com.pk', 'Telecom Providers', 'Pakistan', 'Pakistan', 'Mobile network, prepaid, postpaid, recharge, bundles, and telecom support.'],
+  ['Zong', 'zong', 'https://www.zong.com.pk', 'Telecom Providers', 'Pakistan', 'Pakistan', 'Mobile services, data bundles, recharge, and customer support.'],
+  ['Ufone', 'ufone', 'https://www.ufone.com', 'Telecom Providers', 'Pakistan', 'Pakistan', 'Mobile voice, internet bundles, recharge, and telecom services.'],
+  ['Telenor Pakistan', 'telenor-pakistan', 'https://www.telenor.com.pk', 'Telecom Providers', 'Pakistan', 'Pakistan', 'Mobile packages, recharge, data bundles, and customer services.'],
+  ['SCOM', 'scom', 'https://sco.gov.pk', 'Telecom Providers', 'Gilgit-Baltistan', 'Gilgit-Baltistan', 'Telecom, mobile, and internet services by Special Communications Organization.'],
+  ['PTCL', 'ptcl', 'https://ptcl.com.pk', 'Internet Service Providers (ISP)', 'Pakistan', 'Pakistan', 'Broadband, fiber internet, landline, Smart TV, and customer services.'],
+  ['Nayatel', 'nayatel', 'https://nayatel.com', 'Internet Service Providers (ISP)', 'Pakistan', 'Islamabad', 'Fiber broadband, TV, phone, and customer support services.'],
+  ['StormFiber', 'stormfiber', 'https://stormfiber.com', 'Internet Service Providers (ISP)', 'Pakistan', 'Pakistan', 'Fiber internet, TV, phone packages, and service support.'],
+  ['Optix', 'optix', 'https://optix.pk', 'Internet Service Providers (ISP)', 'Pakistan', 'Karachi', 'Fiber internet, digital TV, phone services, and support.'],
+  ['Transworld Home', 'transworld-home', 'https://transworld-home.com', 'Internet Service Providers (ISP)', 'Pakistan', 'Pakistan', 'Home fiber internet, TV services, packages, and customer support.'],
+  ['Fiberlink', 'fiberlink', 'https://fiberlink.net.pk', 'Internet Service Providers (ISP)', 'Pakistan', 'Karachi', 'High-speed internet packages and customer service resources.'],
+  ['PTCL Smart TV', 'ptcl-smart-tv', 'https://ptcl.com.pk', 'Cable & TV Services', 'Pakistan', 'Pakistan', 'Digital TV entertainment service with PTCL internet and phone bundles.'],
+  ['Tapmad', 'tapmad', 'https://tapmad.com', 'Cable & TV Services', 'Pakistan', 'Pakistan', 'Digital streaming and live TV service for entertainment and sports.'],
+  ['Begin Watch', 'begin-watch', 'https://begin.watch', 'Cable & TV Services', 'Pakistan', 'Pakistan', 'Online entertainment streaming platform with Pakistani and international content.'],
+  ['Myco', 'myco', 'https://myco.io', 'Cable & TV Services', 'Global', 'Global', 'Digital streaming platform for video, live content, and entertainment.'],
+  ['JazzCash', 'jazzcash', 'https://www.jazzcash.com.pk', 'Digital Utility Payments', 'Pakistan', 'Pakistan', 'Digital wallet for mobile recharge, utility bills, transfers, and payments.'],
+  ['Easypaisa', 'easypaisa', 'https://easypaisa.com.pk', 'Digital Utility Payments', 'Pakistan', 'Pakistan', 'Mobile wallet for bill payments, transfers, recharge, and digital financial services.'],
+  ['SadaPay', 'sadapay', 'https://sadapay.pk', 'Digital Utility Payments', 'Pakistan', 'Pakistan', 'Digital account and payment app for transfers, cards, and online payments.'],
+  ['NayaPay', 'nayapay', 'https://www.nayapay.com', 'Digital Utility Payments', 'Pakistan', 'Pakistan', 'Digital wallet and payment platform for transfers, cards, and utility payments.'],
+  ['Zindigi', 'zindigi', 'https://zindigi.pk', 'Digital Utility Payments', 'Pakistan', 'Pakistan', 'Digital banking app for payments, transfers, recharge, and financial services.'],
+  ['1LINK Bill Payment', '1link-bill-payment', 'https://www.1link.net.pk', 'Bill Payment Platforms', 'Pakistan', 'Pakistan', 'Interbank payment network supporting bill payments and digital financial services.'],
+  ['Kuickpay', 'kuickpay', 'https://kuickpay.com', 'Bill Payment Platforms', 'Pakistan', 'Pakistan', 'Online bill payment and collection platform for businesses and consumers.'],
+  ['PayFast', 'payfast', 'https://payfast.io', 'Bill Payment Platforms', 'Pakistan', 'Pakistan', 'Payment gateway for online payments, business collections, and digital transactions.'],
+].map(([name, slug, website, subcategory, province, city, description], index) => {
+  const domain = String(website).replace(/^https?:\/\//, '').split('/')[0];
+  const item: UtilityProvider = {
+    id: `utility-${slug}`,
+    name: String(name),
+    slug: String(slug),
+    website: String(website),
+    category: 'Utilities & Bill Payment',
+    subcategory: subcategory as UtilitySubcategory,
+    description: String(description),
+    country: province === 'Global' ? 'Global' : 'Pakistan',
+    province: String(province),
+    city: String(city),
+    verified: true,
+    featured: index < 12 || ['ptcl', 'jazzcash', 'easypaisa', 'nayapay', 'stormfiber'].includes(String(slug)),
+    rating: Number((4.4 + ((index % 6) * 0.08)).toFixed(1)),
+    logo: logo(domain),
+    tags: [String(subcategory), String(province), String(city), 'utility'],
+    useCase: String(description),
+  };
+
+  return item;
+});
