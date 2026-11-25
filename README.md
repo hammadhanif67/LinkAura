@@ -1,5 +1,9 @@
 # LinkAura
 
+🔗 **Live:** https://link-aura-ruby.vercel.app
+
+![LinkAura: screenshot of the live site](.github/assets/preview.jpg)
+
 LinkAura is a premium directory platform for discovering curated websites, tools, learning resources, digital libraries, research sources, travel platforms, utilities, and services.
 
 ## Tech Stack
