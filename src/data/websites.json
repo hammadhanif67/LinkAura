@@ -15687,5 +15687,31 @@
     "region": "worldwide",
     "addedDate": "2026-06-22",
     "clicks": 922
+  },
+  {
+    "id": "miscellaneous-and-useful-stagepeek",
+    "name": "StagePeek",
+    "description": "StagePeek is an interactive 2D seating chart and 3D concert stage-view simulator covering 201 stadiums, domes, and arenas worldwide with 1x-10x camera zoom.",
+    "url": "https://stagepeek.live",
+    "favicon": "https://www.google.com/s2/favicons?domain=stagepeek.live&sz=64",
+    "screenshot": "https://image.thum.io/get/width/900/crop/700/noanimate/https%3A%2F%2Fstagepeek.live",
+    "category": "miscellaneous-and-useful",
+    "tags": [
+      "Free",
+      "Verified",
+      "Web App"
+    ],
+    "rating": 4.8,
+    "votes": 1,
+    "isVerified": true,
+    "isPopular": false,
+    "isFree": true,
+    "isPakistani": false,
+    "isNew": true,
+    "isTrending": false,
+    "isFeatured": false,
+    "region": "worldwide",
+    "addedDate": "2026-11-28",
+    "clicks": 0
   }
 ]
